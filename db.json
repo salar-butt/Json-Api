@@ -313,5 +313,173 @@
         }
       ]
     }
+  ],
+  "resume":[
+    {
+      "name": "Tayyab Qureshi",
+      "email": "qureshitayyab05@gmail.com",
+      "image": "https://scontent.flhe32-1.fna.fbcdn.net/v/t39.30808-6/312608501_2220300598132788_7966559719699877965_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeE7hxAVNOvFNruTLOKh4FIUD0FhKjr6JpkPQWEqOvommVRZzXBjHA99ynVgreRnjbFABawBTEFIh_Ki6l-cJAOy&_nc_ohc=TCviiV4CTjgAX-jfbzQ&_nc_ht=scontent.flhe32-1.fna&oh=00_AfAz3KhOLfcyuWTj95afvTl9xFmMy9i1tiLMnezeSdEkzA&oe=6574A820",
+      "phone": "03064741302",
+      "password": "1234",
+      "id": 1,
+      "basicinfo": {
+        "firstname": "Tayyab",
+        "lastname": "Qureshi",
+        "dateofbirth": "1998-04-11",
+        "degree": "Graduation",
+        "gender": "male"
+      },
+      "contactinfo": {
+        "email": "qureshitayyab05@gmail.com",
+        "homecontact": "03117669302",
+        "mobile": "03064741302",
+        "country": "Pakistan",
+        "address1": "Hassan Block Nishtar",
+        "city": "Lahore",
+        "address2": "528 Nishter colony Lahore",
+        "zip": "05441"
+      },
+      "experienceinfo": {
+        "jobcity": "Lahore",
+        "designation": "MERN Stack Developer",
+        "experience": "Fresh"
+      },
+      "summary": {
+        "summary": "Hi I am Tayyab Qureshi I am a Frontend Developer"
+      },
+      "skills": [
+        {
+          "name": "HTML",
+          "percentage": "95"
+        },
+        {
+          "name": "CSS",
+          "percentage": "90"
+        },
+        {
+          "name": "Javascript",
+          "percentage": "90"
+        },
+        {
+          "name": "React.js",
+          "percentage": "80"
+        },
+        {
+          "name": "Tailwind",
+          "percentage": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "percentage": "85"
+        },
+        {
+          "name": "tayyab",
+          "percentage": "60"
+        },
+        {
+          "name": "Express.js",
+          "percentage": "65"
+        }
+      ],
+      "Preferred_job_city": {
+        "city": "Lahore"
+      },
+      "hobbies": [
+        {
+          "hobby": "Cricket"
+        },
+        {
+          "hobby": "Football"
+        },
+        {
+          "hobby": "Cooding"
+        }
+      ],
+      "languages": [
+        {
+          "language": "English"
+        },
+        {
+          "language": "Urdu"
+        }
+      ],
+      "reference": {
+        "name": "Abubakkar",
+        "company": "Vvork Cloud Technologies",
+        "email": "abubakar12@gmail.com",
+        "contact_no": "03117669302"
+      },
+      "education": {
+        "degreetitle": "BSCS",
+        "degreelevel": "Graduation",
+        "yearcompletion": "06/2023",
+        "institute": "Virtual University",
+        "location": "Lahore",
+        "result": "CGPA",
+        "cgpa_percentage": "3.4"
+      },
+      "project": [
+        {
+          "projecttitle": "Task-List-Application",
+          "company": "Vvork Cloud Technologies",
+          "fromdate": "2023-10-11",
+          "presentdate": "2023-10-16",
+          "projectlink": "https://github.com/tayyab-qureshi/Task-List-Application-in-React.js-with-Priority-and-Completion-Tracking.git",
+          "customername": "Tayyab Qureshi",
+          "customer_url": "https://github.com/tayyab-qureshi",
+          "tool": "HTML, CSS, Javascript, React",
+          "remarks": "Create a powerful and user-friendly task list application using React.js that allows users to efficiently manage their to-do items with the added flexibility of marking tasks as important and track…"
+        },
+        {
+          "projecttitle": "Devconnection",
+          "company": "Vvork Cloud Technologies",
+          "fromdate": "2023-10-20",
+          "presentdate": "2023-10-30",
+          "projectlink": "https://github.com/tayyab-qureshi",
+          "customer_url": "https://github.com/tayyab-qureshi",
+          "customername": "Tayyab Qureshi",
+          "tool": "HTML, CSS, Tailwind,  Javascript, Context API, React",
+          "remarks": "Create developer profile/portfolio, share posts and interact with other developers"
+        }
+      ],
+      "workhistory": [
+        {
+          "designation": "Frontend Developer Trainee",
+          "company": "Blankslate Technologies",
+          "fromdate": "2022-10-10",
+          "presentdate": "2023-04-11",
+          "refemail": "talhamughal@blankslate.com",
+          "refnumber": "03117669302",
+          "country": "Pakistan",
+          "city": "Lahore",
+          "remarks": "I am Frontend Developer Trainee at Blankslate Technologies"
+        },
+        {
+          "designation": "Junior Frontend Developer",
+          "company": "Vvork Cloud Technologies",
+          "fromdate": "2023-04-20",
+          "presentdate": "2023-11-30",
+          "refemail": "sufyangondal@gmail.com",
+          "refnumber": "03026906975",
+          "country": "Pakistan",
+          "city": "Lahore",
+          "remarks": "I am Junior Frontend Developer at Vvork Cloud Technologies"
+        }
+      ],
+      "awards": [
+        {
+          "title": "CSS Design",
+          "authority": "CSS Design Awards",
+          "award_url": "CSS Design Awards",
+          "date": "10/2022"
+        },
+        {
+          "title": "JavaScript Open Source Awards",
+          "authority": "JavaScript Open Source Awards",
+          "award_url": "Js Awards",
+          "date": "04/2023"
+        }
+      ]
+    }
   ]
 }
