@@ -235,5 +235,83 @@
         "percentage": "67"
       }
     }
+  ],
+  "devConnections": [
+    {
+      "name": "Tayyab Qureshi",
+      "email": "qureshitayyab05@gmail.com",
+      "username": "TayyabQureshi",
+      "avatar": "https://scontent.flhe3-2.fna.fbcdn.net/v/t39.30808-6/312608501_2220300598132788_7966559719699877965_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeE7hxAVNOvFNruTLOKh4FIUD0FhKjr6JpkPQWEqOvommVRZzXBjHA99ynVgreRnjbFABawBTEFIh_Ki6l-cJAOy&_nc_ohc=8-EFfevGVqoAX-TlfuS&_nc_ht=scontent.flhe3-2.fna&oh=00_AfD26nVGOrzWKaStKNws7DrcfDxU0csfrfYMAqyplcCzLA&oe=6568CAA0",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 1,
+      "profile": {
+        "profession": "Junior Developer",
+        "company": "Vvork Cloud Technologies",
+        "website": "www.vvork.com",
+        "location": "Gulberg",
+        "bio": "hi i am a junior developer at vvork",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React"
+        ],
+        "linkedin": "",
+        "facebook": "",
+        "youtube": "",
+        "instagram": ""
+      },
+      "experience": [
+        {
+          "jobTitle": "Frontend Developer",
+          "company": "Vvork Cloud Technologies",
+          "location": "Gulberg",
+          "fromDate": "2023-11-12",
+          "isCurrentJob": false,
+          "toDate": "Now",
+          "jobDescription": ""
+        },
+        {
+          "jobTitle": "Backend Developer",
+          "company": "Blankslate Technologies",
+          "location": "Lahore",
+          "fromDate": "2023-11-12",
+          "isCurrentJob": false,
+          "toDate": "Now",
+          "jobDescription": ""
+        }
+      ],
+      "education": [
+        {
+          "school": "Punjab college",
+          "degree": "FSC",
+          "field": "Medical",
+          "fromDate": "2023-11-12",
+          "isCurrentJob": false,
+          "toDate": "Now",
+          "studyDescription": ""
+        },
+        {
+          "school": "Superior College",
+          "degree": "ICS",
+          "field": "Computer",
+          "fromDate": "2023-11-12",
+          "isCurrentJob": false,
+          "toDate": "Now",
+          "studyDescription": ""
+        }
+      ],
+      "post": [
+        {
+          "userpost": "hello everyone",
+          "date": "12/11/2023"
+        },
+        {
+          "userpost": "hi how are you",
+          "date": "12/11/2023"
+        }
+      ]
+    }
   ]
 }
