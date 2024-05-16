@@ -480,6 +480,20 @@
           "date": "04/2023"
         }
       ]
-    }
+    },
+    {
+      "name": "Tayyab Qureshi",
+      "email": "qureshitayyab05@gmail.com",
+      "image": "https://scontent.flhe32-1.fna.fbcdn.net/v/t39.30808-6/312608501_2220300598132788_7966559719699877965_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeE7hxAVNOvFNruTLOKh4FIUD0FhKjr6JpkPQWEqOvommVRZzXBjHA99ynVgreRnjbFABawBTEFIh_Ki6l-cJAOy&_nc_ohc=TCviiV4CTjgAX-jfbzQ&_nc_ht=scontent.flhe32-1.fna&oh=00_AfAz3KhOLfcyuWTj95afvTl9xFmMy9i1tiLMnezeSdEkzA&oe=6574A820",
+      "phone": "03064741302",
+      "password": "1234",
+      "id": 1,
+      "basicinfo": {
+        "firstname": "Tayyab",
+        "lastname": "Qureshi",
+        "dateofbirth": "1998-04-11",
+        "degree": "Graduation",
+        "gender": "male"
+      }}
   ]
 }
